@@ -1,0 +1,31 @@
+@use "reset";
+
+body {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("/resources/images/pattern.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.green {
+  background-color: mediumspringgreen;
+}
+
+.coral {
+  background-color: lightcoral;
+}
+
+.blue {
+  background-color: skyblue;
+}
