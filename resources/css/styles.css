@@ -82,7 +82,7 @@ h1 {
   font-weight: bold;
   color: khaki;
   text-align: center;
-  background-image: url("/realearning_ghPages/resources/images/pattern.jpeg");
+  background-image: url("resources/images/pattern.jpeg");
   margin: 50px 0;
 }
 
@@ -119,6 +119,11 @@ img {
 .price {
   font-weight: bold;
   color: blue;
+}
+
+footer {
+  height: 50px;
+  background-color: darkslategray;
 }
 
 /*# sourceMappingURL=styles.css.map */
