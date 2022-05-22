@@ -2,15 +2,10 @@
 
 body {
   font-family: Helvetica;
-  padding: 0 50px;
-  position: absolute;
 }
 
 header {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
+  border: 1px solid red;
 }
 
 h1 {
@@ -22,8 +17,8 @@ h1 {
 }
 
 main {
-  position: relative;
-  top: 125px;
+  border: 2px solid green;
+  padding: 0 10px;
 }
 
 h2 {
@@ -64,8 +59,4 @@ img {
 footer {
   height: 50px;
   background-color: darkslategray;
-  width: 100%;
-  position: absolute;
-  bottom: 0;
-  left: 0;
 }
