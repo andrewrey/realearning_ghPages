@@ -90,7 +90,7 @@ h1 {
   font-weight: bold;
   color: khaki;
   text-align: center;
-  background-image: url("resources/images/pattern.jpeg");
+  background-image: url("/");
 }
 
 main {
