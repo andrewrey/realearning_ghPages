@@ -76,10 +76,6 @@ body {
   font-family: Helvetica;
 }
 
-header {
-  border: 1px solid red;
-}
-
 h1 {
   font-size: 100px;
   font-weight: bold;
@@ -89,7 +85,6 @@ h1 {
 }
 
 main {
-  border: 2px solid green;
   padding: 0 10px;
 }
 
