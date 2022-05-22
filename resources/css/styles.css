@@ -75,6 +75,14 @@ select {
 body {
   font-family: Helvetica;
   padding: 0 50px;
+  position: absolute;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 h1 {
@@ -83,7 +91,11 @@ h1 {
   color: khaki;
   text-align: center;
   background-image: url("resources/images/pattern.jpeg");
-  margin: 50px 0;
+}
+
+main {
+  position: relative;
+  top: 125px;
 }
 
 h2 {
@@ -124,6 +136,10 @@ img {
 footer {
   height: 50px;
   background-color: darkslategray;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 
 /*# sourceMappingURL=styles.css.map */
